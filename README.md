@@ -7,7 +7,8 @@ This page contains patch notes for Rocket Games Packages.
 ### CPITemplate
 ----
 [CPITemplate](CPITemplate/README.md)
-	[CPITemplate Patch Notes](CPITemplate/patchnotes.md)
+
+[CPITemplate Patch Notes](CPITemplate/patchnotes.md)
 
 
 ### Rocket Packages
