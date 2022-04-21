@@ -32,4 +32,4 @@
 
 
 ----
-<center><button onclick="window.location.href='javascript:history.back()'" class="btn" title="Go Back">Back</button>     <button onclick="window.location.href='#top'" class="btn" title="Go Top">Top</button></center>
+<button onclick="window.location.href='javascript:history.back()'" class="btn" title="Go Back">Back</button>     <button onclick="window.location.href='#top'" class="btn" title="Go Top">Top</button>
