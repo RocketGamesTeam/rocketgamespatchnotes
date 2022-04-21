@@ -32,5 +32,7 @@
 
 
 ----
-<button title="Go Back"><a href="javascript:history.back()">Back</a></button>
-<button title="Go to Top"><a href="#top">Top</a></button>
+<a href="javascript:history.back()"><button class="btn" title="Go Back">Back</button></a>
+
+
+<a href="#top"><button class="btn" title="Go Top">Top</button></a>
