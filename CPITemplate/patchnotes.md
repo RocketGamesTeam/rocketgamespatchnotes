@@ -32,7 +32,4 @@
 
 
 ----
-<a href="javascript:history.back()"><button class="btn" title="Go Back">Back</button></a>
-
-
-<a href="#top"><button class="btn" title="Go Top">Top</button></a>
+<center><a href="javascript:history.back()"><button class="btn" title="Go Back">Back</button></a> <a href="#top"><button class="btn" title="Go Top">Top</button></a></center>
