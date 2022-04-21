@@ -1,15 +1,15 @@
-### Rocket Games Patch Notes
+## Rocket Games Patch Notes
 ----
 This page contains patch notes for Rocket Games Packages.
 
 
-#### CPITemplate
+### CPITemplate
 ----
 [CPITemplate](CPITemplate/README.md)
 	[CPITemplate Patch Notes](CPITemplate/patchnotes.md)
 
 
-#### Rocket Packages
+### Rocket Packages
 ----
 - [RocketAd](RocketPackages/RocketAd/README.md)
 	- [RocketAd Patch Notes](RocketPackages/RocketAd/patchnotes.md)
