@@ -2,6 +2,7 @@
 ----
 This page contains patch notes for Rocket Games Packages.
 
+<p><button class="btn js-toggle-dark-mode">Switch Theme</button></p>
 
 ### CPITemplate
 ----
