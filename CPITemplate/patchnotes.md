@@ -18,6 +18,7 @@
 #### Features
 1. Now Jenkins build informations *(Item name, build number and passed build parameters)* will be available on **SROptions** debug panel Works on builds only 
 2. **UIScaleUtility** added. *(In case "Canvas Scaler" doesn't work properly on differently shaped popups etc. this utility may be used to scale content responsive to the screen resolution)*
+
 #### Fixes
 1. Fixed using statement of `UnityEditor.iOS.Xcode` in `AutoBuilder.cs`
 2. Fixed the initial position of moving coin animators
