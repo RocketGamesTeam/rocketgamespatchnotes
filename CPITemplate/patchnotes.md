@@ -7,7 +7,7 @@
 2. Reworked the confetti particle VFX
 3. Added settings popup to control volume and purchase restore actions
 4. Added FPS view, it can be enabled by using SR options window
-5. Added Time (shows total seconds elapsed) view, it can be neabled by using SR options window
+5. Added Time (shows total seconds elapsed) view, it can be enabled by using SR options window
 
 #### Fixes
 1. Adjusted the size of the SR options window to prevent overlapping issues with banner ads
