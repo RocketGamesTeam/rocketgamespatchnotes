@@ -1,5 +1,19 @@
 [Details](./README.md)
 
+### Version 12
+---
+#### Features
+1. Now bundle version, bundle version code (Android only) and iOS build number (iOS only) will be visible in SR options window
+2. Reworked the confetti particle VFX
+3. Added settings popup to control volume and purchase restore actions
+4. Added FPS view, it can be enabled by using SR options window
+5. Added Time (shows total seconds elapsed) view, it can be neabled by using SR options window
+
+#### Fixes
+1. Adjusted the size of the SR options window to prevent overlapping issues with banner ads
+2. Now template will not be imported with enabled LOCAL mode
+
+
 
 ### Version 11
 ----
