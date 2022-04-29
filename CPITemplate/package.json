@@ -1,0 +1,21 @@
+{
+  "name": "com.rocket.cpitemplate",
+  "version": "12",
+  "displayName": "CPI Template",
+  "description": "CPI Template package for Rocket Games",
+  "unity": "2020.3.9f1",
+  "keywords": [
+    "cpi",
+    "rocket"
+  ],
+  "dependencies": {
+    "com.rocket.rocketgm": "2.2.4",
+    "com.rocket.rocketfacebook": "1.4.6",
+    "com.rocket.rocketanalytics": "1.2.2"
+  },
+  "author": {
+    "name": "Rocket Games",
+    "email": "info@rocket.gs",
+    "url": "https://www.rocket.gs"
+  }
+}
