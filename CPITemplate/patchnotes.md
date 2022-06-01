@@ -1,5 +1,18 @@
 [Details](./README.md)
 
+### Version 13
+---
+#### Features
+1. Unity Analytics will be visible in SROptions.
+2. Version control system is active from now on. Which will prevent the teams from downloading the old CPITemplate versions.
+
+#### Fixes
+1. Fixed a bug that prevents Jenkins to move the build to installer when project name includes `'` char.
+2. GameOverPanel coin image pivots are adjusted.
+3. Some assets moved to their corresponding folders for better understanding/finding.
+
+
+
 ### Version 12
 ---
 #### Features
