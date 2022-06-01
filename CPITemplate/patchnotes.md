@@ -60,12 +60,11 @@
 
 
 ----
-<p><button class="btn" title="Go Back"  onclick="window.location.href='javascript:history.back()'">Back</button></p>
+<p><a href="javascript:history.back()">Go Back</a></
 
 
 
 
 
 
-
-<p><button onclick="window.location.href='#top'" class="btn" title="Go Top">Top</button></p>
+<p><a href="#top" class="btn" title="Go Top">Top</a></p>
