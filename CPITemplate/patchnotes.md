@@ -1,5 +1,15 @@
 [Details](./README.md)
 
+### Version 14
+---
+#### Features
+1. Development and Autoconnect profiler settings are added seperately to the AutoBuilder as well as Jenkins
+
+#### Fixes
+1. Some codes refactored.
+
+
+
 ### Version 13
 ---
 #### Features
