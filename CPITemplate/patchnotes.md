@@ -1,5 +1,12 @@
 [Details](./README.md)
 
+### Version 15
+---
+#### Fixes
+1. CurrencyElement is aligned with Level text in panels. (InGamePanel, GameOverPanel)
+
+
+
 ### Version 14
 ---
 #### Features
