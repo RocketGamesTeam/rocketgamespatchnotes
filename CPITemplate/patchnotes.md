@@ -1,5 +1,11 @@
 [Details](./README.md)
 
+### Version 16
+---
+#### Fixes
+1. Fixed a bug that occurs on some builds that removes the icon when it's not set from Jenkins.
+
+
 ### Version 15
 ---
 #### Fixes
