@@ -3,7 +3,7 @@
 ### Version 16
 ---
 #### Features
-1. Added ability to enable DeepLink from Jenkins builds.
+1. Added ability to enable Deep Profiling from Jenkins builds.
 
 #### Fixes
 1. Bug that occurs on some builds that removes the icon when it's not set from Jenkins.
