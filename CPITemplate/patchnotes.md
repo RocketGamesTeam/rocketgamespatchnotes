@@ -2,8 +2,13 @@
 
 ### Version 16
 ---
+#### Features
+1. Added ability to enable DeepLink from Jenkins builds.
+
 #### Fixes
-1. Fixed a bug that occurs on some builds that removes the icon when it's not set from Jenkins.
+1. Bug that occurs on some builds that removes the icon when it's not set from Jenkins.
+2. Android bug that fails the build when other builds are completed.
+3. Updated build failure conditions due to new/deprecated error messages.
 
 
 ### Version 15
