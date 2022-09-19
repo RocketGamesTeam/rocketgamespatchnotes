@@ -3,6 +3,12 @@
 ### Version 16
 ---
 #### Features
+1. Added Panteon Tool Downloader for frequently used packages.
+
+
+### Version 16
+---
+#### Features
 1. Added ability to enable Deep Profiling from Jenkins builds.
 
 #### Fixes
