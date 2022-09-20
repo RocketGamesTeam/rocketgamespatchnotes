@@ -1,5 +1,11 @@
 [Details](./README.md)
 
+### Version 18
+---
+#### Fixes
+1. Now iOS builds will fail if there is no bundle Id configured.
+
+
 ### Version 17
 ---
 #### Features
