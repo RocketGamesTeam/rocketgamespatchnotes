@@ -1,6 +1,6 @@
 [Details](./README.md)
 
-### Version 20
+### Version 20 (27.10.2022)
 ---
 #### Features
 1. Added git branch name to the Jenkins properties section of SROptions.
