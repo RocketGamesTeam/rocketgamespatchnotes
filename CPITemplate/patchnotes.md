@@ -1,5 +1,20 @@
 [Details](./README.md)
 
+### Version 20
+---
+#### Features
+1. Added git branch name to the Jenkins properties section of SROptions.
+
+#### Fixes
+1. RocAdController.IsForcedAds active will not be enabled during release builds to prevent compilation error.
+
+
+### Version 19
+---
+#### Fixes
+1. Fixed the visibility of Panteon Tool Downloader window.
+
+
 ### Version 18
 ---
 #### Fixes
